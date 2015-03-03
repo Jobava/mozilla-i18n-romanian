@@ -3,11 +3,11 @@
 
 
 ;Open tour
-Deschide turul
+Deschideți turul
 
 
 ;Close tour
-Închide turul
+Închideți turul
 
 
 ;Not now
@@ -15,29 +15,29 @@ Nu acum
 
 
 ;Take the tour to see what’s new
-Fă turul pentru a vedea ce este nou
+Faceți turul pentru a vedea ce este nou
 
 
 # “Firefox Hello” is the product name and should not be localized
 ;Firefox Hello is the easiest way to connect with friends and family for free over video.
-Firefox Hello este cea mai ușoară metodă de conectare video cu prietenii și familia în mod gratuit.
+Firefox Hello este cea mai ușoară metodă de a vă conecta video cu prietenii și familia în mod gratuit.
 
 
 # %s will be replaced by an image of Telefonica's logo.
 ;Powered by %s
-Alimentat de %s
+Susținut de %s
 
 
 ;Start browsing
-Începe să navighezi
+Începeți să navigați
 
 
 ;The features you use most, all in one place
-Funcțiile pe care le folosești cel mai mult, toate într-un singur loc
+Funcțiile pe care le folosiți cel mai mult, toate într-un singur loc
 
 
 ;Connect with anyone over video right from Firefox
-Conectați-vă video cu oricine prin Firefox
+Conectați-vă video cu oricine direct din Firefox
 
 
 # “Firefox Hello” is the product name and should not be localized
@@ -56,11 +56,11 @@ Cunoașteți pe Hello
 
 
 ;The easiest way to connect for free over video with anyone, anywhere
-The easiest way to connect for free over video with anyone, anywhere
+Cea mai ușoară metodă de a vă conecta video gratuit cu oricine, oriunde
 
 
 ;Show me how
-Arată-mi
+Arătați-mi
 
 
 ;Did you know?
@@ -68,22 +68,22 @@ Arată-mi
 
 
 ;You can have free video conversations right from your Firefox browser.
-Puteți ține conversații video gratuite chiar din navigatorul Firefox.
+Puteți face conversații video gratuite chiar din navigatorul Firefox.
 
 
 # This is the label that represents tour step one of two
 ;1/2
-1/2
+1/2 {ok}
 
 
 # This is the label that represents tour step two of two
 ;2/2
-2/2
+2/2 {ok}
 
 
 # “Firefox Hello” is the product name and should not be localized
 ;Want to reconnect with friends around the world? Celebrate a birthday when you can’t be there in person? Try Firefox Hello — the easiest way to have a free video conversation with anyone, anywhere.
-Vreți să vă conectați cu prieteni din lumea întreagă? Sărbătoriți o aniversare atunci când nu puteți fi acolo? Încercați Firefox Hello — cea mai ușoară metodă de a ține o conversație video cu oricine, oriunde.
+Vreți să vă conectați cu prieteni din lumea întreagă? Să sărbătoriți o aniversare atunci când nu puteți fi acolo? Încercați Firefox Hello — cea mai ușoară metodă de a face o conversație video cu oricine, oriunde.
 
 
 ;<span>Next:</span> Get started
@@ -92,15 +92,15 @@ Vreți să vă conectați cu prieteni din lumea întreagă? Sărbătoriți o ani
 
 # <br> tag below used for formatting only.
 ;Free video conversations,<br> right from Firefox
-Video-conversații gratuite,<br> chiar din Firefox
+Conversații video gratuite,<br> chiar din Firefox
 
 
 ;No account, sign-in or downloads required
-Fără conturi, autentificare sau descărcări
+Fără conturi, autentificare sau descărcări necesare
 
 
 ;Simply start a conversation and share a link
-Porniți o conversație și oferiți un link persoanelor cu care doriți să conversați
+Porniți o conversație și oferiți legătura persoanelor cu care doriți să conversați
 
 
 ;Invite anyone, anywhere to join
@@ -108,16 +108,16 @@ Invitați pe oricine, de oriunde, să se alăture
 
 
 ;Keep conversations one click away
-Conversații la un clic distanță
+Păstrați conversații la un clic distanță
 
 
 # "Hello” is the product name and should not be localized
 ;Add Hello to your toolbar so it’s here whenever you need it.
-Adăugați Hello la bara de instrumente să-l găsiți oricând aveți nevoie.
+Adăugați Hello în bara de instrumente să-l găsiți oricând aveți nevoie.
 
 
 ;Add it now
-Adăugați acum
+Adăugați-l acum
 
 
 ;Later
@@ -130,7 +130,7 @@ Perfect!
 
 # “Hello” is the product name and should not be localized
 ;Now using Hello will be even easier. To move or remove the icon, just open the menu and select Customize.
-Folosind Hello va fi chiar mai ușor. Pentru a muta sau șterge iconița deschideți meniul și alegeți Particularizare (Customize)
+Acum, să folosiți Hello va fi chiar mai ușor. Pentru a muta sau șterge iconița deschideți meniul și alegeți Personalizare.
 
 
 ;Try it now
@@ -143,13 +143,13 @@ Vreți să-l adăugați mai târziu?
 
 # “Firefox Hello” is the product name and should not be localized
 ;No problem. Just open this menu, select Customize and simply drag the Hello icon into your toolbar.
-Nicio problemă. Deschideți acest meniu, alegeți Particularizare (Customize) și trageți iconița Hello în bara de instrumente.
+Nicio problemă. Deschideți acest meniu, alegeți Personalizare și trageți iconița Hello în bara de instrumente.
 
 
 # In this case 'hello' is simply a greeting, not the product name. The message is that Firefox Hello is easy to use, as easy as greeting someone.
 # An alternative headline could be "The easiest way to connect".
 ;As easy as saying hello
-Cel mai ușor mod de conectare
+Cel mai ușor de a saluta
 
 
 ;Start a video conversation with a single click
@@ -157,7 +157,7 @@ Cel mai ușor mod de conectare
 
 
 ;Invite a friend to talk by sending them a link
-Invitați un prieten cu care să vorbiți doar prin trimiterea unui link
+Invitați un prieten cu care să vorbiți doar prin trimiterea unei legături
 
 
 ;Anyone can join — with or without Firefox
@@ -209,7 +209,7 @@ Bine ai venit în Firefox
 
 
 ;Committed to you, your privacy and an open Web.
-Dedicat ție, intimității tale și unui web deschis.
+Dedicat dumneavoastră, confidențialității dumneavoastră și unui web deschis.
 
 
 # “Hello” is the product name and should not be localized
@@ -224,7 +224,7 @@ Aflați despre Hello
 
 # <br> tag below used for formatting only.
 ;It starts with the new,<br> intuitive menu
-Pornește cu un meniu nou și intuitiv
+Pornește cu un meniu nou, <br>intuitiv
 
 
 ;Grouped together for quick, easy access
@@ -236,15 +236,15 @@ Grupate împreună pentru acces rapid și ușor
 
 
 ;<span>Next:</span> Search
-<span>Următor:</span> Search
+<span>Următor:</span> Căutare
 
 
 ;Connect over video with anyone, anywhere
-Conectați-va video cu oricine, oriunde
+Conectați-vă video cu oricine, oriunde
 
 
 ;It’s free! No account, sign-in or downloads required
-Gratuit! Fără conturi, autentificare sau descărcări
+Gratuit! Fără conturi, autentificare sau descărcări necesare
 
 
 ;Choose how you want to search
@@ -257,11 +257,11 @@ Alegeți modul în care vreți să căutați
 
 # <br> tag below used for formatting only.
 ;Introducing a smarter <br>way to search
-Un mod mai inteligent de căutare
+Introducem un mod mai inteligent <br>de căutare
 
 
 ;Search suggestions appear as you type
-Sugestiile de căutare apar pe măsure ce tastezi
+Sugestiile de căutare apar pe măsură ce tastați
 
 
 ;Choose the right site for every search
@@ -273,7 +273,7 @@ Folosește steluța pentru a crea semne de carte
 
 
 ;<span>Previous:</span> Search
-<span>Anterior:</span> Search
+<span>Anterior:</span> Căutare
 
 
 # <br> tag below used for formatting only.
@@ -282,10 +282,10 @@ Saiturile tale favorite<br> sunt mai aproape decât au fost vreodată
 
 
 ;Add and view bookmarks from the same spot
-Adaugă și vezi semnele de carte din același loc
+Adăugați și vedeți semnele de carte din același loc
 
 
 ;Save sites with a single click
-Salvează saituri cu un singur clic
+Salvați saituri cu un singur clic
 
 
